@@ -1,0 +1,36 @@
+html{
+    font-size: 20px;
+    font-family: 'Open Sans' sans-serif;
+    background-color:darkorange;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    background-color: darkred;
+    color: aliceblue;
+    
+}
+p,li{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    background-color: darkred;
+    color: aliceblue;
+}
+body{
+    width: 70%;
+    margin: 0 auto;
+    background-color:darkred;
+    padding: 0 20px 20px 20px;
+    border: 4px solid black;
+}
+input{
+    padding: 10px;
+}
+img{
+    margin: 0 auto;
+    display: block;
+    border: 8px solid black;
+    border-radius: 50px;
+}
